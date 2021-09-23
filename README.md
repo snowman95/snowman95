@@ -5,16 +5,29 @@
 - 📫 How to reach me ... hun2ya9@gmail.com
 
 
-- - -
+---
 
 # Unity/Unreal Programmer (2017 ~ 2019)
 ## 기술 스텍
-1. Unity Engine 4(게임엔진) and C#(언어)
-* Front-end : Pivot을 이용하여 해상도가 달라져도 동일 화면 보이도록 구현 가능, Animation을 이용하여 창 열기,닫기 등의 전환 모션 구현 가능, 스크롤 바가 있는 입력창 구현 가능
-* Back-end : 상속/인터페이스를 이용하여 등장인물에 대한 클래스 명세서 작성 및 구현 가능, 게임 환경설정/흐름제어를 위한 클래스 작성 가능, 간단한 수준의 적 AI 구현 가능
-* Effector : 파티클을 이용하여 원하는 모양의 이펙트 구현 가능, 트리거/콜리전 등을 이용한 물체 감지/충돌 제어 가능, 간단한 수준의 3D 인게임 영상 제작 가능
-
-- 구현 프로젝트 List
+## 1. Unity Engine 4(게임엔진) and C#(언어)
+* Front-end : 
+  * Pivot을 이용하여 해상도가 달라져도 동일 화면 보이도록 구현 가능   
+  * Animation을 이용하여 창 열기/닫기 등의 전환 모션 구현 가능   
+  * 스크롤 바가 있는 입력창 구현 가능
+* Back-end : 
+  * 상속/인터페이스를 이용하여 등장인물에 대한 클래스 명세서 작성 및 구현 가능   
+  * 게임 환경설정/흐름제어를 위한 클래스 작성 가능   
+  * 간단한 수준의 적 AI 구현 가능
+* Effector : 
+  * 파티클을 이용하여 원하는 모양의 이펙트 구현 가능   
+  * 트리거/콜리전 등을 이용한 물체 감지/충돌 제어 가능   
+  * 간단한 수준의 3D 인게임 영상 제작 가능
+* VR : 
+  * VR 환경에서 동작하는 프로그램 개발 가능   
+     
+   
+      
+## 구현 프로젝트 List
   - MARK - 지뢰 피하기 퍼즐게임
     - Git : (https://github.com/hun2ya9/2017-MARK)
     - 설명 : 랜덤하게 지뢰가 숨겨진 크기가 NxN의 판 위에서 플레이어가 목적지까지 횡단하는 지뢰 피하기 퍼즐게임. 
@@ -93,12 +106,13 @@
 
 
 
-
-2. Unreal Engine (게임엔진) and C++ 언어
+---
+## 2. Unreal Engine (게임엔진) and C++ 언어
 - Front-end : 간단한 수준의 게임화면 구현 가능, Animation을 이용하여 창 열기,닫기 등 전환 모션 구현 가능
 - Back-end : 게임엔진의 Actor(등장인물) 상속구조를 이해하고 알맞은 객체 사용 가능, 블루프린트/C++를 이용한 게임 로직 구현 가능
 - VR : VR 컨트롤러로 조작하고 VR 디스플레이에 출력하도록 VR 프로그래밍 개발 가능   
-- 구현 프로젝트 목록
+   
+## 구현 프로젝트 목록
   - THReflect : 탄막 액션게임
     - 설명 : 시작과 동시에 적의 보스와 전투를 하는 게임. 적 보스는 3D 탄막 형태의 공격을 하는 것이 특징
     - 역할 : 게임 Front/Back-end 전체 구현.
@@ -125,7 +139,7 @@
    
 # System Administartor (2020 ~ 2021)
 ## 기술 스텍
-1. S사 semiconductor factory manufacturing operation System (HA, High Available System) 구축 및 운영 경험
+## 1. S사 semiconductor factory manufacturing operation System (HA, High Available System) 구축 및 운영 경험
 * 대상 :
   * Server : DB(Database) Server, AP(Application) Server, DR(Disaster Recovery) Server, 개발용 Server, Test Server
   * Storage : (Mid-range ~ high-end) 단일(Active), 이중화(Active-Standby), SRDF(Active-Active)
@@ -144,21 +158,21 @@
   * Disaster Recovery (DR) 훈련
   * Vendor 별 장비 Proof Of Concept (POC) Test 수행
    
-2. Automation
+## 2. Automation
 * Sell Scripting
 * Ansible (IT Automation Tool) : 수백대의 장비를 python + yaml 파일을 통해 관리
    
-3. Project Management
+## 3. Project Management
 * Jira (kanban board)
 * Confluence (wiki)
 
 
 
    
-   
+---
 # Web Front-end Programmer ( ~현재)
 ## 기술 스텍
-1. Vanilla JS
+## 1. Vanilla JS
 * HTML : 
   * block/inline 요소를 구분하여 사용할 수 있음.
   * form 을 통해 서버로 데이터 전송할 수 있음.   
@@ -175,24 +189,30 @@
   * document object를 통해 HTML/CSS 수정할 수 있음.
   * 원하는 요소에 event 를 등록하여 event에 따른 action을 수행할 수 있음.
      
-2. React
+## 2. React
   * 함수형 컴포넌트를 생성할 수 있음.
   * props와 state를 이해하고 있음.
   * React Hooks를 사용할 수 있음.
   * React Router 를 사용하여 주소에 따라 다른 화면을 보여줄 수 있음.
    
+## 구현 프로젝트 List 
+* Kokoa Clone : Kakao Talk Clone 프로젝트
+* 
+
    
-현재 "Nomard Coders" 강의를 수강 중입니다. https://nomadcoders.co/
+---
 
-
-
-# 그 외
-## 기술 스텍
+# 그 외 기술 스텍
 1. python
 * python 언어를 사용하여 다양한 자료구조를 다룰 수 있음.
 * python library를 임포트하여 활용할 수 있음.
 * 너무 복잡하지 않은 수준의 프로그램 개발 가능.
-   
+
+## 구현 프로젝트 List
+* pyexcel : python 코드로 손쉽게 Excel 파일을 다루기 위한 라이브러리
+- [git repository: pyexcel](https://github.com/snowman95/pyexcel, "git link")   
+
+
 2. 작성 예정...
 
 
