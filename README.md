@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @snowman95
 - 👀 I’m interested in ... vue/react web front-end programming
 - 🌱 I’m currently learning ... javascript, python
-- 💞️ I’m looking to collaborate on ... front-end project and new python library proejct
+- 💞️ I’m looking to collaborate on ... web front-end project and new python library proejct
 - 📫 How to reach me ... hun2ya9@gmail.com
-
 
 
 - - -
@@ -119,8 +118,83 @@
     - [영상 : AUTOTYPE : VR 프로토타이핑 툴](https://pukyongackr-my.sharepoint.com/personal/hun2ya9_pukyong_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81%2FAUTOTYPE%2Emp4&parent=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81&originalPath=aHR0cHM6Ly9wdWt5b25nYWNrci1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odW4yeWE5X3B1a3lvbmdfYWNfa3IvRVVWZnp3eVoxaGRJbnM2TzhVczdDNUFCSDNSOE1obnc3U0MtRVpXTWJwZzZUUT9ydGltZT1MVHVuMmNCSTEwZw, "Video link")   
     ![image](https://user-images.githubusercontent.com/89284542/133894675-bd20bb32-87d6-4a61-a2fc-963638fb33d6.png)
     ![image](https://user-images.githubusercontent.com/89284542/133894696-3a40a85a-c834-47c0-a01d-6da3ee79a456.png)
+   
+   
+   
+   
+   
+# System Administartor (2020 ~ 2021)
+## 기술 스텍
+1. S사 semiconductor factory manufacturing operation System (HA, High Available System) 구축 및 운영 경험
+* 대상 :
+  * Server : DB(Database) Server, AP(Application) Server, DR(Disaster Recovery) Server, 개발용 Server, Test Server
+  * Storage : (Mid-range ~ high-end) 단일(Active), 이중화(Active-Standby), SRDF(Active-Active)
+  * San Switch : Brocade 계열
+* 구축 : 
+  * Server/Storage 장비 입고
+  * 장비 Mount 및 물리적인 작업 진행 (전원 연결, 케이블 연결) 
+  * San switch Config and Zonning, Storage Disk 할당
+  * OS Install, FW Upgrade, SW Install, kernel parameter setting, ...
+  * Availability Test
+* 운영 : 
+  * Event 발생 시 조치
+  * H/W Part (CPU, Memory, Disk) 증설
+  * 시설 점검 : OS Upgrade, FW Upgrade
+  * 노후 장비 유휴전환, 폐기
+  * Disaster Recovery (DR) 훈련
+  * Vendor 별 장비 Proof Of Concept (POC) Test 수행
+   
+2. Automation
+* Sell Scripting
+* Ansible (IT Automation Tool) : 수백대의 장비를 python + yaml 파일을 통해 관리
+   
+3. Project Management
+* Jira (kanban board)
+* Confluence (wiki)
 
-  
+
+
+   
+   
+# Web Front-end Programmer ( ~현재)
+## 기술 스텍
+1. Vanilla JS
+* HTML : 
+  * block/inline 요소를 구분하여 사용할 수 있음.
+  * form 을 통해 서버로 데이터 전송할 수 있음.   
+  * id/class 를 구분하여 사용할 수 있음.   
+  * 반복 사용되는 부분을 컴포넌트로 만들어서 재사용할 수 있음.
+     
+* CSS : 
+  * Selector를 통해 원하는 HTML 요소에 접근할 수 있음.
+  * Flex, Grid 를 사용하여 현대적인 레이아웃 구성할 수 있음.
+  * CSS 변수를 만들어서 사용할 수 있음.
+  * transform, animation을 사용할 수 있음.
+     
+* Javascript :
+  * document object를 통해 HTML/CSS 수정할 수 있음.
+  * 원하는 요소에 event 를 등록하여 event에 따른 action을 수행할 수 있음.
+     
+2. React
+  * 함수형 컴포넌트를 생성할 수 있음.
+  * props와 state를 이해하고 있음.
+  * React Hooks를 사용할 수 있음.
+  * React Router 를 사용하여 주소에 따라 다른 화면을 보여줄 수 있음.
+   
+   
+현재 "Nomard Coders" 강의를 수강 중입니다. https://nomadcoders.co/
+
+
+
+# 그 외
+## 기술 스텍
+1. python
+* python 언어를 사용하여 다양한 자료구조를 다룰 수 있음.
+* python library를 임포트하여 활용할 수 있음.
+* 너무 복잡하지 않은 수준의 프로그램 개발 가능.
+   
+2. 작성 예정...
+
 
 <!---
 snowman95/snowman95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
