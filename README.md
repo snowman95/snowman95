@@ -1,15 +1,15 @@
 - 👋 Hi, I’m @snowman95
-- 👀 I’m interested in ... vue/react web front-end programming
-- 🌱 I’m currently learning ... javascript, python
+- 👀 I’m interested in ... Vue/React Web Front-end Programming
+- 🌱 I’m currently learning ... HTML/CSS/JS, Vue/React, python
 - 💞️ I’m looking to collaborate on ... web front-end project and new python library proejct
 - 📫 How to reach me ... hun2ya9@gmail.com
 
-현재 서울/경기지역 웹 프론트앤드 직무 구직중입니다. 연락주세요.
+현재 서울/경기지역 웹 프론트앤드 개발 직무 구직중입니다. 연락주세요.
 
 ---
 
    
-# Web Front-end Programmer ( ~현재)
+# Web Front-end Programmer (구직중)
 ## 기술 스텍
 ## 1. Vanilla JS
 * HTML : 
