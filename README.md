@@ -36,12 +36,23 @@
    
 ## 구현 프로젝트 List 
 * Kokoa Clone : Kakao Talk Clone 프로젝트    
-  * 설명 : "카카오 톡" 프론트앤드 화면 클론 프로젝트입니다.
+  * 설명 : "Kakao Talk APP" 프론트앤드 화면 클론 프로젝트입니다. HTML/CSS 중점 Study 목적으로 진행하였습니다.   
+           CSS Animation도 일부 추가하였습니다.
   * 역할 : Front-end(전체)
+  * 사용한 기술 : HTML, CSS
   * [git page : Kokoa Clone](https://snowman95.github.io/kokoa-clone-2020)   
   * [git repository: Kokoa Clone](https://github.com/snowman95/kokoa-clone-2020)   
-  ![image](https://user-images.githubusercontent.com/89284542/134754171-77a67afc-2aac-47e1-8b69-0708b5fbb949.png)
-  ![image](https://user-images.githubusercontent.com/89284542/134754188-42fc9300-f456-400f-9208-31d8c8d23558.png)
+    ![image](https://user-images.githubusercontent.com/89284542/134754171-77a67afc-2aac-47e1-8b69-0708b5fbb949.png)
+    ![image](https://user-images.githubusercontent.com/89284542/134754188-42fc9300-f456-400f-9208-31d8c8d23558.png)
+
+* Momentum Clone : Momentum Clone 프로젝트    
+  * 설명 : "Momentum APP" 프론트앤드 화면 클론 프로젝트입니다. JS 중점 Study 목적으로 진행하였습니다.   
+           날씨 Open API를 사용하여 현재 지역의 날씨/온도를 불러왔습니다.
+  * 역할 : Front-end(전체)
+  * 사용한 기술 : HTML, CSS, JS
+  * [git page : Momentum Clone](https://snowman95.github.io/momentum-clone)   
+  * [git repository: Momentum Clone](https://github.com/snowman95/momentum-clone)   
+    ![image](https://user-images.githubusercontent.com/89284542/134777956-d9d1df9a-6c10-4e2a-8d95-6693d484bf3e.png)
 
 
 ---
