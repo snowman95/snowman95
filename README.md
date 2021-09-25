@@ -106,7 +106,7 @@
     - 사용한 기술 : 최단거리 알고리즘
     - 어려운 문제 : 반드시 목적지 까지 가는길이 있도록 지뢰를 배치하는 방법
     - 문제 극복 방법 : N-Queen 알고리즘을 활용하여 지뢰를 배치하여 길을 막아버리는 경우가 없도록 구현.
-    - [git repository: MARK](https://github.com/hun2ya9/2017-MARK, "git link")   
+    - [git repository: MARK](https://github.com/hun2ya9/2017-MARK)   
       ![image](https://user-images.githubusercontent.com/89284542/133889624-70d2ecb8-f176-4fb1-a4c1-8d786c291143.png)
 
   - Tap Tap Knight Plus - 2D 횡스크롤 액션게임
@@ -116,7 +116,7 @@
     - 사용한 기술 : 확률
     - 어려운 문제 : Stage에 등장하는 적/장애물이 적절한 확률에 따라 등장하도록 구현
     - 문제 극복 방법 : Switch문에서 적/장애물 마다 가중치를 주어서 확률을 구현함
-    - [영상 : MARK - 지뢰 피하기 퍼즐 게임](https://pukyongackr-my.sharepoint.com/personal/hun2ya9_pukyong_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81%2FTap%20Tap%20Knight%20Plus%2Emp4&parent=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81&originalPath=aHR0cHM6Ly9wdWt5b25nYWNrci1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odW4yeWE5X3B1a3lvbmdfYWNfa3IvRVpwTlVELUlGOU5KbEZJTU9OWHNYdFVCUFprU3pabWowMi1qV0E3aHVjNXMyUT9ydGltZT14dmtiT3FONjJVZw, "Video link")   
+    - [영상 : MARK - 지뢰 피하기 퍼즐 게임](https://pukyongackr-my.sharepoint.com/personal/hun2ya9_pukyong_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81%2FTap%20Tap%20Knight%20Plus%2Emp4&parent=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81&originalPath=aHR0cHM6Ly9wdWt5b25nYWNrci1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odW4yeWE5X3B1a3lvbmdfYWNfa3IvRVpwTlVELUlGOU5KbEZJTU9OWHNYdFVCUFprU3pabWowMi1qV0E3aHVjNXMyUT9ydGltZT14dmtiT3FONjJVZw)   
       ![image](https://user-images.githubusercontent.com/89284542/133889422-2647b0b4-2c99-41b6-970e-65bbef1faa9b.png)
 
   - First Planet - 3D 슈팅 전략게임    
@@ -130,7 +130,7 @@
     - 문제 극복 방법 : 플레이어에 부착된 원형의 트리거가 각 Object에 부착된 트리거와 반응할 경우에만 Object가 동작하도록 구현하고 그 외 Object는 유휴 상태로 대기시킴.   
                       적들이 플레이어와 마주치면 공격하거나, 따라오거나, 피해가거나 등의 다양한 액션을 취하는데 엄청나게 많은 적이 따라오는 경우 프레임 드랍이 발생하므로 
                       일정 거리가 벌어지면 더 이상 따라오지 않도록 제어
-    - [영상 : First Planet - 3D 슈팅 전략 게임](https://pukyongackr-my.sharepoint.com/personal/hun2ya9_pukyong_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81%2FWAPle%5FFirstPlanet%20%EC%86%8C%EA%B0%9C%20%EC%98%81%EC%83%81%2Emp4&parent=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81&originalPath=aHR0cHM6Ly9wdWt5b25nYWNrci1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odW4yeWE5X3B1a3lvbmdfYWNfa3IvRWZ3UU1MdUJ6YlZEc2wzSUZ2YjhMQVlCYlpMZ1k1NE5xc3BqdDM5QmtBZHkwdz9ydGltZT1BVmxZVGFSNjJVZw, "Video link")   
+    - [영상 : First Planet - 3D 슈팅 전략 게임](https://pukyongackr-my.sharepoint.com/personal/hun2ya9_pukyong_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81%2FWAPle%5FFirstPlanet%20%EC%86%8C%EA%B0%9C%20%EC%98%81%EC%83%81%2Emp4&parent=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81&originalPath=aHR0cHM6Ly9wdWt5b25nYWNrci1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odW4yeWE5X3B1a3lvbmdfYWNfa3IvRWZ3UU1MdUJ6YlZEc2wzSUZ2YjhMQVlCYlpMZ1k1NE5xc3BqdDM5QmtBZHkwdz9ydGltZT1BVmxZVGFSNjJVZw)   
       ![image](https://user-images.githubusercontent.com/89284542/133890803-8247b01c-1fd9-46cc-aa58-b93a4495c49e.png)
       ![image](https://user-images.githubusercontent.com/89284542/133889726-6fd6be26-405d-4bda-87d2-76d2a35f6a60.png)
 
@@ -143,8 +143,8 @@
     - 사용한 기술 : 스마트폰 화면의 기울어짐 정도를 입력으로 이용하기
     - 어려운 문제 : 로프 반동의 힘을 어느정도로 주어야 하는가?
     - 문제 극복 방법 : 반복 테스트를 통하여 반동력을 적절한 수치로 조절
-    - [git repository: CLIME](https://github.com/pknu-wap/2018SpringProject, "git link")   
-    - [영상 : CLIME - 자이로센서를 이용한 로프액션 게임](https://pukyongackr-my.sharepoint.com/personal/hun2ya9_pukyong_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81%2FCLIME%2Emp4&parent=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81&originalPath=aHR0cHM6Ly9wdWt5b25nYWNrci1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odW4yeWE5X3B1a3lvbmdfYWNfa3IvRVViUHdGeng0ZVZNb1Q1NWVyb0xjcDhCQW9KanZTRTFPZ2pJeW9BRFJ1UGZnQT9ydGltZT05TFB3bXFoNjJVZw, "Video link")   
+    - [git repository: CLIME](https://github.com/pknu-wap/2018SpringProject)   
+    - [영상 : CLIME - 자이로센서를 이용한 로프액션 게임](https://pukyongackr-my.sharepoint.com/personal/hun2ya9_pukyong_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81%2FCLIME%2Emp4&parent=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81&originalPath=aHR0cHM6Ly9wdWt5b25nYWNrci1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odW4yeWE5X3B1a3lvbmdfYWNfa3IvRVViUHdGeng0ZVZNb1Q1NWVyb0xjcDhCQW9KanZTRTFPZ2pJeW9BRFJ1UGZnQT9ydGltZT05TFB3bXFoNjJVZw)   
     ![image](https://user-images.githubusercontent.com/89284542/133890616-23827ee1-36a1-43a7-88df-39a2af9b54fa.png)
     ![image](https://user-images.githubusercontent.com/89284542/133890624-4ebd3da6-635a-4069-9c35-5273c05d048a.png)
 
@@ -155,7 +155,7 @@
              Front/Back-end (미니 게임 파트 담당 : 게임 선택/실행/종료 제어 환경 제작, 두더쥐 잡기, 쥐 분류하기 등의 미니 게임 제작)
     - 어려운 문제 : 화면에 글자 수가 많아졌을 경우 슬라이드 바가 생성되도록 구현
     - 문제 극복 방법 : 게임 앤진 내에 제공되는 슬라이드 모듈 내부에 text area 모듈을 넣어서 구현
-    - [영상 : 일기썼냥 - 일기장 어플리케이션](https://pukyongackr-my.sharepoint.com/personal/hun2ya9_pukyong_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81%2F%EC%9D%BC%EA%B8%B0%EC%8D%BC%EB%83%A5%20%EC%86%8C%EA%B0%9C%EC%98%81%EC%83%81%20%EB%A3%A8%EC%A6%88%ED%95%9C%20%EB%B2%84%EC%A0%84%2Emp4&parent=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81&originalPath=aHR0cHM6Ly9wdWt5b25nYWNrci1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odW4yeWE5X3B1a3lvbmdfYWNfa3IvRVpHM0tLODZ4MUJQcmwyQVp3dDZKRUFCOHJuRHNmWnpqV2kycl9rY1o5bXRGUT9ydGltZT1ieUxIWDZ4NjJVZw, "Video link")   
+    - [영상 : 일기썼냥 - 일기장 어플리케이션](https://pukyongackr-my.sharepoint.com/personal/hun2ya9_pukyong_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81%2F%EC%9D%BC%EA%B8%B0%EC%8D%BC%EB%83%A5%20%EC%86%8C%EA%B0%9C%EC%98%81%EC%83%81%20%EB%A3%A8%EC%A6%88%ED%95%9C%20%EB%B2%84%EC%A0%84%2Emp4&parent=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81&originalPath=aHR0cHM6Ly9wdWt5b25nYWNrci1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odW4yeWE5X3B1a3lvbmdfYWNfa3IvRVpHM0tLODZ4MUJQcmwyQVp3dDZKRUFCOHJuRHNmWnpqV2kycl9rY1o5bXRGUT9ydGltZT1ieUxIWDZ4NjJVZw")   
     ![image](https://user-images.githubusercontent.com/89284542/133891433-12f55c1f-774c-4fa0-b05a-e5d70b210f67.png)
     ![image](https://user-images.githubusercontent.com/89284542/133891423-c392229f-ab5d-47d1-8ee6-e6b5e81a17b1.png)
     ![image](https://user-images.githubusercontent.com/89284542/133891422-17699a98-db43-43c5-8622-636ef5c03d7a.png)
@@ -169,9 +169,9 @@
     - 역할 : Front-end (전체), Back-end (플레이어 조작, 적 AI, 아이템 구현)
     - 어려운 문제 : 가끔 비정상적으로 아주 빠른속도로 속도로 날아오는 좀비가 존재함.
     - 문제 극복 방법 : 충돌에 의한 물리엔진으로 인해 간헐적으로 발생한 것으로 확인. 물리적인 충돌을 제거한 트리거를 사용하도록 변경
-    - [git repository: DAD](https://github.com/pknu-wap/2018SpringProject, "git link")   
-    - 글로벌게임잼 인증 주소 : https://globalgamejam.org/2019/games/dad
-    - [영상 : DAD - 건설 생존게임](https://pukyongackr-my.sharepoint.com/personal/hun2ya9_pukyong_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81%2FDAD%2Emp4&parent=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81&originalPath=aHR0cHM6Ly9wdWt5b25nYWNrci1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odW4yeWE5X3B1a3lvbmdfYWNfa3IvRVJUM3B3SWtUWkJIcWd4LUtVQ2xRc29CZ2I2QTBZckFzQXl3ZzhyNEl1Qzlsdz9ydGltZT0yRWVCSHJwNjJVZw, "Video link")   
+    - [git repository: DAD](https://github.com/pknu-wap/2018SpringProject)   
+    - [글로벌게임잼 인증 주소](https://globalgamejam.org/2019/games/dad)
+    - [영상 : DAD - 건설 생존게임](https://pukyongackr-my.sharepoint.com/personal/hun2ya9_pukyong_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81%2FDAD%2Emp4&parent=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81&originalPath=aHR0cHM6Ly9wdWt5b25nYWNrci1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odW4yeWE5X3B1a3lvbmdfYWNfa3IvRVJUM3B3SWtUWkJIcWd4LUtVQ2xRc29CZ2I2QTBZckFzQXl3ZzhyNEl1Qzlsdz9ydGltZT0yRWVCSHJwNjJVZw)   
     ![image](https://user-images.githubusercontent.com/89284542/133894303-bf1cdc91-057e-44e3-87a0-5a524c4635c9.png)
 
 
@@ -189,8 +189,8 @@
     - 역할 : 게임 Front/Back-end 전체 구현.
     - 어려운 문제 : 복잡하고 다양한 보스 AI 구현
     - 문제 극복 방법 : 게임 엔진에서 제공하는 비헤이비어 트리를 이용하여 보스 AI 구현
-    - [git repository: THReflect](https://github.com/pknu-wap/UE4STAG, "git link")   
-    - [영상 : THReflect : 탄막 액션게임](https://pukyongackr-my.sharepoint.com/personal/hun2ya9_pukyong_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81%2FTHReflect%2Emp4&parent=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81&originalPath=aHR0cHM6Ly9wdWt5b25nYWNrci1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odW4yeWE5X3B1a3lvbmdfYWNfa3IvRVVtZDI3VjNNRmhIaDI2UnB3QjVTeFFCMzEwbG9KU2NVTms1M3JadkhYT0J5UT9ydGltZT1lOEM4M2JWNjJVZw, "Video link")   
+    - [git repository: THReflect](https://github.com/pknu-wap/UE4STAG)   
+    - [영상 : THReflect : 탄막 액션게임](https://pukyongackr-my.sharepoint.com/personal/hun2ya9_pukyong_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81%2FTHReflect%2Emp4&parent=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81&originalPath=aHR0cHM6Ly9wdWt5b25nYWNrci1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odW4yeWE5X3B1a3lvbmdfYWNfa3IvRVVtZDI3VjNNRmhIaDI2UnB3QjVTeFFCMzEwbG9KU2NVTms1M3JadkhYT0J5UT9ydGltZT1lOEM4M2JWNjJVZw)   
     ![image](https://user-images.githubusercontent.com/89284542/133893337-0b38d0e5-a382-4fc5-91ab-96aae93587ef.png)
 
   - AUTOTYPE : VR 프로토타이핑 툴
@@ -200,7 +200,7 @@
       - 인벤토리에 사용될 에셋의 썸네일을 제작하는 기능을 만들어서 개발 단계에서 활용하였고 에셋의 타입별로 인벤토리에 보여주고 선택해서 월드에 꺼내 배치할 수 있도록 하였습니다. 머티리얼이나 파티클의 파라미터 값을 변경하면 적용되도록 하였습니다.
     - 어려운 문제 : 기즈모 구현
     - 문제 극복 방법 : 벡터 내적과 외적을 이용하여 마우스 드래그한 방향이 좌/우 인지 상/하인지 구별
-    - [영상 : AUTOTYPE : VR 프로토타이핑 툴](https://pukyongackr-my.sharepoint.com/personal/hun2ya9_pukyong_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81%2FAUTOTYPE%2Emp4&parent=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81&originalPath=aHR0cHM6Ly9wdWt5b25nYWNrci1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odW4yeWE5X3B1a3lvbmdfYWNfa3IvRVVWZnp3eVoxaGRJbnM2TzhVczdDNUFCSDNSOE1obnc3U0MtRVpXTWJwZzZUUT9ydGltZT1MVHVuMmNCSTEwZw, "Video link")   
+    - [영상 : AUTOTYPE : VR 프로토타이핑 툴](https://pukyongackr-my.sharepoint.com/personal/hun2ya9_pukyong_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81%2FAUTOTYPE%2Emp4&parent=%2Fpersonal%2Fhun2ya9%5Fpukyong%5Fac%5Fkr%2FDocuments%2F%EC%98%81%EC%83%81&originalPath=aHR0cHM6Ly9wdWt5b25nYWNrci1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odW4yeWE5X3B1a3lvbmdfYWNfa3IvRVVWZnp3eVoxaGRJbnM2TzhVczdDNUFCSDNSOE1obnc3U0MtRVpXTWJwZzZUUT9ydGltZT1MVHVuMmNCSTEwZw)   
     ![image](https://user-images.githubusercontent.com/89284542/133894675-bd20bb32-87d6-4a61-a2fc-963638fb33d6.png)
     ![image](https://user-images.githubusercontent.com/89284542/133894696-3a40a85a-c834-47c0-a01d-6da3ee79a456.png)
    
@@ -216,7 +216,7 @@
 
 ## 구현 프로젝트 List
 * pyexcel : python 코드로 손쉽게 Excel 파일을 다루기 위한 라이브러리
-- [git repository: pyexcel](https://github.com/snowman95/pyexcel, "git link")   
+- [git repository: pyexcel](https://github.com/snowman95/pyexcel)   
 
 
 2. 작성 예정...
