@@ -38,6 +38,7 @@
 * Kokoa Clone : Kakao Talk Clone 프로젝트    
   * 설명 : "카카오 톡" 프론트앤드 화면 클론 프로젝트입니다.
   * 역할 : Front-end(전체)
+  * [git page : Kokoa Clone](https://snowman95.github.io/kokoa-clone-2020/, "git-pulishing link")   
   * [git repository: Kokoa Clone](https://github.com/snowman95/kokoa-clone-2020, "git link")   
   ![image](https://user-images.githubusercontent.com/89284542/134754171-77a67afc-2aac-47e1-8b69-0708b5fbb949.png)
   ![image](https://user-images.githubusercontent.com/89284542/134754188-42fc9300-f456-400f-9208-31d8c8d23558.png)
