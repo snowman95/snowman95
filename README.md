@@ -9,7 +9,7 @@
 ---
 
    
-# Web Front-end Programmer (구직중)
+# Web Front-end Programmer (현재 구직중)
 ## 기술 스텍
 ## 1. Vanilla JS
 * HTML : 
