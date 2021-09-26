@@ -35,7 +35,7 @@
   * React Router 를 사용하여 주소에 따라 다른 화면을 보여줄 수 있음.
    
 ## 구현 프로젝트 List 
-* Kokoa Clone : Kakao Talk Clone 프로젝트    
+* Kokoa Clone : Web Front-end Clone 프로젝트    
   * 설명 : "Kakao Talk APP" 프론트앤드 화면 클론 프로젝트입니다. HTML/CSS 중점 Study 목적으로 진행하였습니다.   
            CSS Animation도 일부 추가하였습니다.
   * 역할 : Front-end(전체)
@@ -44,8 +44,8 @@
   * [git repository: Kokoa Clone](https://github.com/snowman95/kokoa-clone-2020)   
     ![image](https://user-images.githubusercontent.com/89284542/134754171-77a67afc-2aac-47e1-8b69-0708b5fbb949.png)
     ![image](https://user-images.githubusercontent.com/89284542/134754188-42fc9300-f456-400f-9208-31d8c8d23558.png)
-
-* Momentum Clone : Momentum Clone 프로젝트    
+   
+* Momentum Clone : Web Front-end Clone 프로젝트    
   * 설명 : "Momentum APP" 프론트앤드 화면 클론 프로젝트입니다. JS 중점 Study 목적으로 진행하였습니다.   
            날씨 Open API를 사용하여 현재 지역의 날씨/온도를 불러왔습니다.
   * 역할 : Front-end(전체)
@@ -53,6 +53,18 @@
   * [git page : Momentum Clone](https://snowman95.github.io/momentum-clone)   
   * [git repository: Momentum Clone](https://github.com/snowman95/momentum-clone)   
     ![image](https://user-images.githubusercontent.com/89284542/134777956-d9d1df9a-6c10-4e2a-8d95-6693d484bf3e.png)
+   
+* Best-horror-scens Clone : Web Front-end Clone 프로젝트    
+  * 설명 : besthorrorscens 사이트 프론트앤드 화면 클론 프로젝트입니다. SCSS 중점 Study 목적으로 진행하였습니다.   
+           원본 사이트 : https://besthorrorscenes.com/
+  * 역할 : Front-end(전체)
+  * 사용한 기술 : HTML, CSS, JS, SCSS
+  * 어려운 문제 : 화면을 스크롤해도 좌측 Sidebar가 움직이지 않도록 고정시켜야 하는데 positon: fixed 해버리면 화면 레이아웃이 깨짐
+  * 문제 극복 방법 : Sidebar 크기만큼 margin-left를 주어서 레이아웃 유지하도록 해결
+  * [git page : Momentum Clone](https://snowman95.github.io/Best-Horror-Scenes-Clone/)   
+  * [git repository: Momentum Clone](https://github.com/snowman95/Best-Horror-Scenes-Clone)   
+    ![image](https://user-images.githubusercontent.com/89284542/134807668-df8c4b24-86fd-4f58-a01d-9c133380d6af.png)
+
 
 
 ---
