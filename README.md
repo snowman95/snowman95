@@ -14,15 +14,16 @@
 ## 1. Vanilla JS
 * HTML : 
   * block/inline 요소를 구분하여 사용할 수 있음.
-  * form 을 통해 서버로 데이터 전송할 수 있음.   
-  * id/class 를 구분하여 사용할 수 있음.   
-  * 반복 사용되는 부분을 컴포넌트로 만들어서 재사용할 수 있음.
+  * input, button 으로 양식을 만들고 submit 을 통해 서버로 데이터 전송할 수 있음.
+  * id/class 를 구분하여 사용할 수 있음.
      
 * CSS : 
   * Selector를 통해 원하는 HTML 요소에 접근할 수 있음.
+  * BEM (Blcok, Element, Modifier) 방법론으로 class이름을 지정할 수 있음.
   * Flex, Grid 를 사용하여 현대적인 레이아웃 구성할 수 있음.
   * CSS 변수를 만들어서 사용할 수 있음.
   * transform, animation을 사용할 수 있음.
+  * SCSS 를 다룰 수 있음 (valiable, nesting, mixin, extend...)
      
 * Javascript :
   * document object를 통해 HTML/CSS 수정할 수 있음.
@@ -30,16 +31,17 @@
      
 ## 2. React
   * 함수형 컴포넌트를 생성할 수 있음.
-  * props와 state를 이해하고 있음.
-  * React Hooks를 사용할 수 있음.
+  * React Hooks을 사용할 수 있고 만들 수 있음.
   * React Router 를 사용하여 주소에 따라 다른 화면을 보여줄 수 있음.
    
+      
 ## 구현 프로젝트 List 
 * Kokoa Clone : Web Front-end Clone 프로젝트    
   * 설명 : "Kakao Talk APP" 프론트앤드 화면 클론 프로젝트입니다. HTML/CSS 중점 Study 목적으로 진행하였습니다.   
            CSS Animation도 일부 추가하였습니다.
   * 역할 : Front-end(전체)
-  * 사용한 기술 : HTML, CSS
+  * 사용한 기술 : HTML, CSS   
+  
   * [git page : Kokoa Clone](https://snowman95.github.io/kokoa-clone-2020)   
   * [git repository: Kokoa Clone](https://github.com/snowman95/kokoa-clone-2020)   
     ![image](https://user-images.githubusercontent.com/89284542/134754171-77a67afc-2aac-47e1-8b69-0708b5fbb949.png)
@@ -49,21 +51,45 @@
   * 설명 : "Momentum APP" 프론트앤드 화면 클론 프로젝트입니다. JS 중점 Study 목적으로 진행하였습니다.   
            날씨 Open API를 사용하여 현재 지역의 날씨/온도를 불러왔습니다.
   * 역할 : Front-end(전체)
-  * 사용한 기술 : HTML, CSS, JS
+  * 사용한 기술 : HTML, CSS, JS   
+  
   * [git page : Momentum Clone](https://snowman95.github.io/momentum-clone)   
   * [git repository: Momentum Clone](https://github.com/snowman95/momentum-clone)   
-    ![image](https://user-images.githubusercontent.com/89284542/134777956-d9d1df9a-6c10-4e2a-8d95-6693d484bf3e.png)
+    ![image](https://user-images.githubusercontent.com/89284542/135815336-42d1aa4f-ae6a-41b4-8253-97cb889efd35.png)
+    ![image](https://user-images.githubusercontent.com/89284542/135815158-6346786b-16ee-4da3-b7b1-4e4fcf62a169.png)
    
-* Best-horror-scens Clone : Web Front-end Clone 프로젝트    
-  * 설명 : besthorrorscens 사이트 프론트앤드 화면 클론 프로젝트입니다. SCSS 중점 Study 목적으로 진행하였습니다.   
-           원본 사이트 : https://besthorrorscenes.com/
+* Best-horror-sceens Clone : Web Front-end Clone 프로젝트    
+  * 설명 : besthorrorsceens 사이트 프론트앤드 화면 클론 프로젝트입니다. SCSS 중점 Study 목적으로 진행하였습니다.
   * 역할 : Front-end(전체)
   * 사용한 기술 : HTML, CSS, JS, SCSS
   * 어려운 문제 : 화면을 스크롤해도 좌측 Sidebar가 움직이지 않도록 고정시켜야 하는데 positon: fixed 해버리면 화면 레이아웃이 깨짐
-  * 문제 극복 방법 : Sidebar 크기만큼 margin-left를 주어서 레이아웃 유지하도록 해결
-  * [git page : Momentum Clone](https://snowman95.github.io/Best-Horror-Scenes-Clone/)   
-  * [git repository: Momentum Clone](https://github.com/snowman95/Best-Horror-Scenes-Clone)   
+  * 문제 극복 방법 : Sidebar 크기만큼 margin-left를 주어서 레이아웃 유지하도록 해결   
+  
+  * 원본 사이트 : https://besthorrorscenes.com/
+  * [git page : Best-horror-sceens Clone](https://snowman95.github.io/Best-Horror-Scenes-Clone/)   
+  * [git repository: Best-horror-sceens Clone](https://github.com/snowman95/Best-Horror-Scenes-Clone)   
     ![image](https://user-images.githubusercontent.com/89284542/134807668-df8c4b24-86fd-4f58-a01d-9c133380d6af.png)
+
+* Paintbox Clone : Web Front-end Clone 프로젝트    
+  * 설명 : paintbox 사이트 프론트앤드 화면 클론 프로젝트입니다. css 요소를 재활용할 수 있도록 만들어 활용하도록 진행하였습니다.
+  * 역할 : Front-end(전체)
+  * 사용한 기술 : HTML, CSS, JS
+  * 어려운 문제 : 브라우저 창을 전체 화면크기로 했을때 img, text를 담은 div 박스의 높이가 일정 이상 커지지 않게 값이 정해진 상태에서   
+                  창의 크기가 줄어들때 img, text가 고정사이즈를 유지하지 않고 div박스가 작아지는대로 자연스럽게 같은 비율로 줄어들어야 하는데   
+                  div 박스의 height를 고정하니 창을 줄여도 img사이즈가 고정되어버렸고 img를 건드리니 div  박스 밖으로 img가 튀어나가버렸음.
+                  또한 이미지 원본크기가 매우 커서 이미지가 늘어져서 보이게 됨.
+  * 문제 극복 방법 :   
+    * div 박스를 grid로 만들어 img와 text 박스가 각각 1fr 씩 (반반) 가지도록 함.
+    * 이미지에 width: 100%; object-fit:cover; cover; max-height: 780px; 로 설정   
+       * object-fit:cover; 로 이미지를 늘리지 않고 비율 유지하고 보여주게 하였으며   
+       * width: 100%; 를 통해 height는 자동으로 width를 따라가게 하였고
+       * max-height를 주어서 박스가 일정 크기 보다 커지지 않도록 제어함. (height를 지정해버리면 창을 줄여도 img크기가 자연스럽게 줄어들지 않음)   
+       
+  * 원본 사이트 : https://paint-box.com/
+  * [git page : Paintbox Clone](https://snowman95.github.io/paint-box-clone/)
+  * [git repository: Paintbox Clone](https://github.com/snowman95/paint-box-clone)   
+    ![image](https://user-images.githubusercontent.com/89284542/135812278-712f993c-bce0-413c-91ea-56e11a9e8eca.png)
+    ![image](https://user-images.githubusercontent.com/89284542/135815670-e4fa9fd3-c7e9-435b-961d-28924f0a847d.png)
 
 
 
