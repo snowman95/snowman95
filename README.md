@@ -46,6 +46,9 @@
   * [git repository: Kokoa Clone](https://github.com/snowman95/kokoa-clone-2020)   
     ![image](https://user-images.githubusercontent.com/89284542/134754171-77a67afc-2aac-47e1-8b69-0708b5fbb949.png)
     ![image](https://user-images.githubusercontent.com/89284542/134754188-42fc9300-f456-400f-9208-31d8c8d23558.png)
+    ![image](https://user-images.githubusercontent.com/89284542/138113348-4bd57f37-c1a1-4d83-afbd-611c5084fff7.png)
+![image](https://user-images.githubusercontent.com/89284542/138113625-04d1a1e5-2db7-4795-839d-b3d2874801fa.png)
+
    
 * Momentum Clone : Web Front-end Clone 프로젝트    
   * 설명 : "Momentum APP" 프론트앤드 화면 클론 프로젝트입니다. JS 중점 Study 목적으로 진행하였습니다.   
@@ -92,7 +95,30 @@
     ![image](https://user-images.githubusercontent.com/89284542/135815670-e4fa9fd3-c7e9-435b-961d-28924f0a847d.png)
 
 
+* Nomflix : Web Front-end Clone 프로젝트    
+  * 설명 : Popcorn Time 사이트 프론트앤드 화면 클론 프로젝트입니다. React 스터디 목적으로 개발하였습니다.
+  * 역할 : Front-end(전체)
+  * 사용한 기술 : React
+  * 사용한 React 라이브러리 목록
+    * styled-components (https://www.npmjs.com/package/styled-components)
+    * styled-reset (https://www.npmjs.com/package/styled-reset)
+    * react-router-dom (https://www.npmjs.com/package/react-router-dom)
+    * react-helmet (https://www.npmjs.com/package/react-helmet)
+    * prop-types (https://www.npmjs.com/package/prop-types)
+    * axios (https://www.npmjs.com/package/axios)
+  * 사용한 API 목록 :
+    * Movie Database API (https://www.themoviedb.org/)
+  * 어려운 문제 : 최신 React가 아닌 구 버전 React로 구현하여 화면 하나에 DataContainer, DataPresenter, index 파일 총 3개씩 만들어서 관리할 파일이 매우 많았음.   
+                  State Management (Redux, UseContext등) 사용하지 않고 구현하여 props와 state를 컴포넌트 넘나들며 전달하는 불편함이 있었음.
+  * 문제 극복 방법 :  추후 State Management 사용 및 함수형 컴포넌트로 교체하여 Upgrade 예정
+  * 원본 사이트 : https://popcorn-time.tw/
+  * [git page : nomflix](https://snowman95.github.io/nomflix/#/)   
+  * [git repository: nomflix](https://github.com/snowman95/nomflix)   
+    ![image](https://user-images.githubusercontent.com/89284542/138116175-2e05a90d-d186-4d3f-9cc5-1b0bd39a688d.png)
+    ![image](https://user-images.githubusercontent.com/89284542/138118012-25c5a51e-0a58-46f3-ba0c-63822a8b3eee.png)
+    ![image](https://user-images.githubusercontent.com/89284542/138118066-b01ba0f2-78fc-4262-8768-30596047d2a8.png)
 
+   
 ---
    
 # System Administartor (2020 ~ 2021)
