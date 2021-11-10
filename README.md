@@ -123,7 +123,6 @@
                   State Management (Redux, UseContext등) 사용하지 않고 구현하여 props와 state를 컴포넌트 넘나들며 전달하는 불편함이 있었음.
   * 문제 극복 방법 : 이후 추가되는 컴포넌트에 최신 React인 함수형 컴포넌트 + Hook 을 사용하여 불편함 개선하였음.
   * 원본 사이트 : https://popcorn-time.tw/
-  * [git page : nomflix](https://snowman95.github.io/nomflix/#/)   
   * [netlify page : nomflix](https://hopeful-mahavira-904bea.netlify.app/#/)   
   * [git repository: nomflix](https://github.com/snowman95/nomflix)   
     ![image](https://user-images.githubusercontent.com/89284542/138116175-2e05a90d-d186-4d3f-9cc5-1b0bd39a688d.png)
