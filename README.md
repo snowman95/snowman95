@@ -22,6 +22,7 @@
   * Flex, Grid 를 사용하여 현대적인 레이아웃 구성할 수 있음.
   * CSS 변수를 만들어서 사용할 수 있음.
   * transform, animation을 사용할 수 있음.
+  * styled-components 를 사용할 수 있음 (theme, global style...)
   * SCSS 를 다룰 수 있음 (valiable, nesting, mixin, extend...)
      
 * Javascript :
@@ -29,9 +30,17 @@
   * 원하는 요소에 event 를 등록하여 event에 따른 action을 수행할 수 있음.
      
 ## 2. React
-  * 함수형 컴포넌트를 생성할 수 있음.
+  * 클래스형 컴포넌트와 함수형 컴포넌트를 생성할 수 있음.
   * React Hooks을 사용할 수 있고 만들 수 있음.
-  * React Router 를 사용하여 주소에 따라 다른 화면을 보여줄 수 있음.
+  * 사용가능한 모듈
+    * react-router-dom : 하나의 웹페이지에서 링크주소에 따라 다른 컴포넌트를 렌더링하여 마치 웹페이지를 이동하는 것 처럼 표현할 수 있음.   
+    * react-redux : 2~3Layer 이상 내려가서 변수를 전달해야하는 경우 외부 저장소(리덕스)에 접근하게 하여 더 효율적인 코딩 가능함.
+    * @reduxjs/toolkit : 더 작은 코드로 리덕스 기능 구현 가능함.
+    * axios : API 를 통해 원하는 데이터를 가져올 수 있음. 그리고 그 데이터를 컴포넌트로 전달하여 화면에 표현가능함.   
+  * 사용가능한 Hooks
+    * useState() : 변수의 값이 변할 때 해당 값이 다시 렌더링되도록 할 수 있음.
+    * useEffect() : 컴포넌트가 마운트될때 1회 수행 후 특정 값이 업데이트 될 때마다 특정 로직을 수행할 수 있음.
+    * 그 외 : 커스텀 Hook 을 만들어서 사용 가능함.      
    
       
 ## 구현 프로젝트 List 
@@ -95,7 +104,10 @@
 
 
 * Nomflix : Web Front-end Clone 프로젝트    
-  * 설명 : Popcorn Time 사이트 프론트앤드 화면 클론 프로젝트입니다. React 스터디 목적으로 개발하였습니다.
+  * 설명 : Popcorn Time 사이트 프론트앤드 화면 클론 프로젝트입니다. React 스터디 목적으로 개발하였습니다.   
+           Movie Database API 에서 가져온 Movie/TV Show 정보를 탭으로 구분하여 보여줍니다. Search 탭을 통해 검색 기능도 제공합니다.
+           Movie/TV Poster 이미지를 누르면 상세 정보와 관련 Youtube 영상을 보여줍니다.   
+
   * 역할 : Front-end(전체)
   * 사용한 기술 : React
   * 사용한 React 라이브러리 목록
@@ -109,7 +121,7 @@
     * Movie Database API (https://www.themoviedb.org/)
   * 어려운 문제 : 최신 React가 아닌 구 버전 React로 구현하여 화면 하나에 DataContainer, DataPresenter, index 파일 총 3개씩 만들어서 관리할 파일이 매우 많았음.   
                   State Management (Redux, UseContext등) 사용하지 않고 구현하여 props와 state를 컴포넌트 넘나들며 전달하는 불편함이 있었음.
-  * 문제 극복 방법 :  추후 State Management 사용 및 함수형 컴포넌트로 교체하여 Upgrade 예정
+  * 문제 극복 방법 : 이후 추가되는 컴포넌트에 최신 React인 함수형 컴포넌트 + Hook 을 사용하여 불편함 개선하였음.
   * 원본 사이트 : https://popcorn-time.tw/
   * [git page : nomflix](https://snowman95.github.io/nomflix/#/)   
   * [git repository: nomflix](https://github.com/snowman95/nomflix)   
@@ -128,15 +140,15 @@
   * Storage : (Mid-range ~ high-end) 단일(Active), 이중화(Active-Standby), SRDF(Active-Active)
   * San Switch : Brocade 계열
 * 구축 : 
-  * Server/Storage 장비 입고
-  * 장비 Mount 및 물리적인 작업 진행 (전원 연결, 케이블 연결) 
-  * San switch Config and Zonning, Storage Disk 할당
-  * OS Install, FW Upgrade, SW Install, kernel parameter setting, ...
+  * Server/Storage 장비 DataCenter 입고
+  * 장비 Mount 및 물리적인 작업 진행 (전원 연결, 케이블 연결)
+  * San switch Config and Zonning, 외장 Storage LUN 할당하여 서버에서 외장 스토리지 Disk 접근
+  * OS Install, FW Upgrade, SW Install, kernel parameter setting, User/Filesystem Creation
   * Availability Test
 * 운영 : 
   * Event 발생 시 조치
-  * H/W Part (CPU, Memory, Disk) 증설
-  * 시설 점검 : OS Upgrade, FW Upgrade
+  * H/W Part (CPU, Memory, Disk) 증설, 교체
+  * 시설 점검 : OS/FW Upgrade
   * 노후 장비 유휴전환, 폐기
   * Disaster Recovery (DR) 훈련
   * Vendor 별 장비 Proof Of Concept (POC) Test 수행
@@ -144,6 +156,7 @@
 ## 2. Automation
 * Sell Scripting
 * Ansible (IT Automation Tool) : 수백대의 장비를 python + yaml 파일을 통해 관리
+                                 실제로 사용은 못하고 study 까지만 수행함.   
    
 ## 3. Project Management
 * Jira (kanban board)
