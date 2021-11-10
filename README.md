@@ -8,7 +8,7 @@
 ---
 
    
-# Web Front-end Programmer (예정)
+# Web Front-end Programmer (준비중)
 ## 기술 스텍
 ## 1. Vanilla JS
 * HTML : 
@@ -124,10 +124,12 @@
   * 문제 극복 방법 : 이후 추가되는 컴포넌트에 최신 React인 함수형 컴포넌트 + Hook 을 사용하여 불편함 개선하였음.
   * 원본 사이트 : https://popcorn-time.tw/
   * [git page : nomflix](https://snowman95.github.io/nomflix/#/)   
+  * [netlify page : nomflix](https://hopeful-mahavira-904bea.netlify.app/#/)   
   * [git repository: nomflix](https://github.com/snowman95/nomflix)   
     ![image](https://user-images.githubusercontent.com/89284542/138116175-2e05a90d-d186-4d3f-9cc5-1b0bd39a688d.png)
     ![image](https://user-images.githubusercontent.com/89284542/138118012-25c5a51e-0a58-46f3-ba0c-63822a8b3eee.png)
     ![image](https://user-images.githubusercontent.com/89284542/138118066-b01ba0f2-78fc-4262-8768-30596047d2a8.png)
+    ![image](https://user-images.githubusercontent.com/89284542/141119626-eff943c7-8ac9-4abf-b481-8f94a9c13969.png)
 
    
 ---
