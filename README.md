@@ -41,8 +41,11 @@
     * useState() : 변수의 값이 변할 때 해당 값이 다시 렌더링되도록 할 수 있음.
     * useEffect() : 컴포넌트가 마운트될때 1회 수행 후 특정 값이 업데이트 될 때마다 특정 로직을 수행할 수 있음.
     * 그 외 : 커스텀 Hook 을 만들어서 사용 가능함.      
-   
-      
+
+## 3. React Native
+  * React Native를 통해 IOS/Android 용 APP 개발이 가능함.   
+         
+         
 ## 구현 프로젝트 List 
 * Kokoa Clone : Web Front-end Clone 프로젝트    
   * 설명 : "Kakao Talk APP" 프론트앤드 화면 클론 프로젝트입니다. HTML/CSS 중점 Study 목적으로 진행하였습니다.   
@@ -130,6 +133,18 @@
     ![image](https://user-images.githubusercontent.com/89284542/138118066-b01ba0f2-78fc-4262-8768-30596047d2a8.png)
     ![image](https://user-images.githubusercontent.com/89284542/141119626-eff943c7-8ac9-4abf-b481-8f94a9c13969.png)
 
+
+* WorkHardTravelHard App : React Native App 프로젝트    
+  * 설명 : React Native 를 이용하여 Android/IOS/Web 3개의 플랫폼에서 구동되는 Todo list App 입니다.   
+           Work 와 Travel 를 분리하여 각각 다른 Todo list를 작성할 수 있습니다.
+  * 역할 : Front-end(전체)
+  * 사용한 기술 : React Native, Expo  
+  * [git page : WHTH](https://snowman95.github.io/WorkHardTravelHard/)   
+  * [git repository: Momentum Clone](https://github.com/snowman95/WorkHardTravelHard)   
+    ![image](![image](https://user-images.githubusercontent.com/89284542/141685475-f95ad062-0781-4bd5-96dd-1502353979b0.png)
+)
+    ![image](![image](https://user-images.githubusercontent.com/89284542/141685521-9e100e09-95d7-4bb9-8b29-52ca313edda2.png)
+)
    
 ---
    
