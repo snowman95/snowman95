@@ -141,8 +141,7 @@
   * 사용한 기술 : React Native, Expo  
   * [git page : WHTH](https://snowman95.github.io/WorkHardTravelHard/)   
   * [git repository: Momentum Clone](https://github.com/snowman95/WorkHardTravelHard)   
-    ![image](https://user-images.githubusercontent.com/89284542/141685475-f95ad062-0781-4bd5-96dd-1502353979b0.png)
-    ![image](https://user-images.githubusercontent.com/89284542/141685521-9e100e09-95d7-4bb9-8b29-52ca313edda2.png)
+    ![image](https://user-images.githubusercontent.com/89284542/141686036-a7eb58f9-238c-4b61-888f-9004f7a9c8ac.png)
    
 ---
    
