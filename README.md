@@ -42,14 +42,20 @@
     * useEffect() : 컴포넌트가 마운트될때 1회 수행 후 특정 값이 업데이트 될 때마다 특정 로직을 수행할 수 있음.
     * 그 외 : 커스텀 Hook 을 만들어서 사용 가능함.      
 
-  * HackerRank verification
-  * https://www.hackerrank.com/certificates/7fb625a20568
-  * ![image](https://user-images.githubusercontent.com/89284542/142204711-e9f0caf7-f408-4c1a-af10-b48469579af9.png)
-
-
 ## 3. React Native
   * React Native를 통해 IOS/Android 용 APP 개발이 가능함.   
-         
+  * Expo를 사용하여 프리뷰 APP을 만들 수 있음.                
+
+
+## Certifications
+### Nomadcoders (노마드 코더)
+  * [Nomadcoders](https://nomadcoders.co/users/hun2ya9)   
+    ![image](https://user-images.githubusercontent.com/89284542/142206435-2a7da3b4-54b9-4c4b-923d-41e6fb28d2ab.png)   
+
+### HackerRank  (해커랭크)
+  * [HackerRank : React-Basic](https://www.hackerrank.com/certificates/7fb625a20568)
+    ![image](https://user-images.githubusercontent.com/89284542/142204711-e9f0caf7-f408-4c1a-af10-b48469579af9.png)   
+    
          
 ## 구현 프로젝트 List 
 * Kokoa Clone : Web Front-end Clone 프로젝트    
@@ -181,7 +187,8 @@
 * Confluence (wiki)
 
 
-## verification
+## Certifications
+### AWS Solution Architect - Associate
 * ![image](https://user-images.githubusercontent.com/89284542/142205325-58cf2784-539d-454b-a22f-cf7ffc7e0653.png)
 
 
