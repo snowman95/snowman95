@@ -42,6 +42,11 @@
     * useEffect() : 컴포넌트가 마운트될때 1회 수행 후 특정 값이 업데이트 될 때마다 특정 로직을 수행할 수 있음.
     * 그 외 : 커스텀 Hook 을 만들어서 사용 가능함.      
 
+  * HackerRank verification
+  * https://www.hackerrank.com/certificates/7fb625a20568
+  * ![image](https://user-images.githubusercontent.com/89284542/142204711-e9f0caf7-f408-4c1a-af10-b48469579af9.png)
+
+
 ## 3. React Native
   * React Native를 통해 IOS/Android 용 APP 개발이 가능함.   
          
@@ -174,6 +179,10 @@
 ## 3. Project Management
 * Jira (kanban board)
 * Confluence (wiki)
+
+
+## verification
+* ![image](https://user-images.githubusercontent.com/89284542/142205325-58cf2784-539d-454b-a22f-cf7ffc7e0653.png)
 
 
 ---
