@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snowman95
-- 👀 I’m interested in ... Vue/React Web Front-end Programming
-- 🌱 I’m currently learning ... HTML/CSS/JS, Vue/React, python
-- 💞️ I’m looking to collaborate on ... web front-end project and new python library proejct
+- 👀 I’m interested in ... React Web Front-end Programming
+- 🌱 I’m currently learning ... HTML/CSS/JS, React, python
+- 💞️ I’m looking to collaborate on ... web front-end project
 - 📫 How to reach me ... hun2ya9@gmail.com
 
 
