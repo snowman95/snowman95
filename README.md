@@ -13,22 +13,21 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </span>
 ## 1. React
-* 무엇을 해보았는가?
-  * Spring boot 서버와 Rest API 연동
-  * React Hook 제작
-  * 패키지 (프로젝트 실적용 경험 有)
-    * react-router-dom : 라우팅
-    * react-redux : 상태변화 관리
-    * @reduxjs/toolkit : 더 작은 코드로 리덕스 구현
-    * axios : Rest API 연동
-    * react-toastify : 알람창
-    * firebase v9 : 전화번호/Google 인증 구현
-    * react-spring, react-use-gesture, react-use-measure : 화면 스와이프 기능
-    * react-helmet : 웹사이트 상단 타이틀 수정
-    * styled-components : 컴포넌트형 스타일 구현
-    * styled-reset : 스타일 리셋 
-  * 패키지 (이론 o 프로젝트 실적용 경험 無)
-    * typescript : 변수/함수 타입 지정
+* Spring boot 서버와 Rest API 연동
+* React Hook 제작
+* 패키지 (프로젝트 실적용 경험 有)
+  * react-router-dom : 라우팅
+  * react-redux : 상태변화 관리
+  * @reduxjs/toolkit : 더 작은 코드로 리덕스 구현
+  * axios : Rest API 연동
+  * react-toastify : 알람창
+  * firebase v9 : 전화번호/Google 인증 구현
+  * react-spring, react-use-gesture, react-use-measure : 화면 스와이프 기능
+  * react-helmet : 웹사이트 상단 타이틀 수정
+  * styled-components : 컴포넌트형 스타일 구현
+  * styled-reset : 스타일 리셋 
+* 패키지 (이론 o 프로젝트 실적용 경험 無)
+  * typescript : 변수/함수 타입 지정
 
 ## 2. React Native
   * 기본적인 수준의 IOS/Android 용 APP개발 
@@ -37,12 +36,12 @@
          
 # 구현 프로젝트 List
 
-## [Clone-Carrot](https://github.com/wogns1026/Clone-Carrot/tree/development) : Web Front-end Clone + 기능추가 프로젝트
+## [Clone-Carrot](https://github.com/wogns1026/Clone-Carrot/tree/development) : Web Clone + 기능추가 프로젝트
 * 기간 : 2021.11 ~ 진행중
 * 인원 : 2인 (FE 1, BE 1) 중 FE 담당
 * 환경
-  * Frontend : React.js + styled-components
-  * Backend : Java Spring boot with Gradle + H2 Database 
+  * Frontend : `React.js` + `styled-components`
+  * Backend : `Java Spring boot with Gradle` + `H2 Database` 
 
 * 설명 : 당근 마켓은 앱으로만 서비스 사용이 가능하고 웹은 모양만 만들어둔 수준으로 실제론 사용이 불가합니다.
          웹으로도 서비스를 이용할 수 있도록 로그인/회원가입, 게시글 등록 기능을 추가하였습니다.
@@ -85,15 +84,14 @@
 * 기간 : 2021.10.11 ~ 11.09
 * 인원 : 1인 (FE 1) 중 FE 담당
 * 환경 : 
-  * Frontend : React.js + styled-components
+  * Frontend : `React.js` + `styled-components`
   * Backend : Open API [Movie Database API](https://www.themoviedb.org/) 활용
 
 * 설명 : [Popcorn Time](https://popcorn-time.tw/) 사이트 프론트앤드 화면 클론 프로젝트입니다. 
          React 스터디 목적으로 프로젝트 진행하였습니다.   
 * 목표 :
   * Open API 연동 
-    * 영화/드라마 정보
-      * [Movie Database API](https://www.themoviedb.org/)
+    * 영화/드라마 정보 [Movie Database API](https://www.themoviedb.org/)
   * 검색 기능 구현
   * Youtube 영상 삽입
   
@@ -130,7 +128,7 @@
 * 기간 : 2021.10.3 ~ 10.4
 * 인원 : 1인 (FE 1) 중 FE 담당
 * 환경 : 
-  * Frontend : HTML / CSS / JS
+  * Frontend : `HTML / CSS / JS`
 
 * 설명 : [paintbox](https://paint-box.com/) 사이트 프론트앤드 화면 클론 프로젝트입니다.
 * 목표 :
@@ -154,7 +152,7 @@
 * 기간 : 2021.09.26
 * 인원 : 1인 (FE 1) 중 FE 담당
 * 환경 : 
-  * Frontend : HTML, CSS, JS, SCSS
+  * Frontend : `HTML, CSS, JS, SCSS`
   
 * 설명 : [best horror sceens](https://besthorrorscenes.com/) 사이트 프론트앤드 화면 클론 프로젝트입니다. SCSS 중점 Study 목적으로 진행하였습니다.
 * 목표
@@ -172,7 +170,7 @@
 * 기간 : 2021.09.25 ~ 10.02
 * 인원 : 1인 (FE 1) 중 FE 담당
 * 환경 : 
-  * Frontend : HTML / CSS / JS
+  * Frontend : `HTML / CS`
 
 * 설명 : "Momentum APP" 프론트앤드 화면 클론 프로젝트입니다.
 * 목표
@@ -193,7 +191,7 @@
 * 기간 : 2021.09.21 ~ 10.25
 * 인원 : 1인 (FE 1) 중 FE 담당
 * 환경 : 
-  * Frontend : HTML / CSS / JS
+  * Frontend : `HTML / CSS`
 
 * 설명 : "Kakao Talk APP" 프론트앤드 화면 클론 프로젝트입니다. 
 * 목표
