@@ -65,7 +65,7 @@
     * 배포 : Docker & Jenkins
   * Open API 사용하여 복잡한 기능 구현
     * 주소 검색 
-      * [Kakoa 우편번호 서비스](https://postcode.map.daum.net/guide#themeWizard)
+      * [Kakao 우편번호 서비스](https://postcode.map.daum.net/guide#themeWizard)
     * 전화번호/구글 로그인 인증
       * [Firebase Auth](https://console.firebase.google.com/)
     * 카카오 로그인 인증
