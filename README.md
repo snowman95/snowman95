@@ -49,7 +49,7 @@
 * 목표
   * 협업 경험 쌓기
     * Backend 개발자와 협업하여 2인 프로젝트 진행
-    * 프로젝트 관리 : Git Page, issue
+    * 프로젝트 관리 : Git Project, issue
     * 깃 브랜치 관리 : Git Flow 전략
     * DB Table 설계
     * API 명세 : Swagger
