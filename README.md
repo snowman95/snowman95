@@ -16,16 +16,21 @@
 * Spring boot 서버와 Rest API 연동
 * React Hook 제작
 * 패키지 (프로젝트 실적용 경험 有)
-  * react-router-dom : 라우팅
+  * react-router-dom : 라우팅 구현
   * react-redux : 상태변화 관리
-  * @reduxjs/toolkit : 더 작은 코드로 리덕스 구현
-  * axios : Rest API 연동
-  * react-toastify : 알람창
+  * @reduxjs/toolkit : 더 작은 코드로 리덕스 구현, thunk, RTK Query
+  * redux-logger : 스토어 상태변화를 로그로 출력하는 미들웨어
+  * axios : API 호출
+  * react-toastify : 팝업 알람창
   * firebase v9 : 전화번호/Google 인증 구현
   * react-spring, react-use-gesture, react-use-measure : 화면 스와이프 기능
   * react-helmet : 웹사이트 상단 타이틀 수정
   * styled-components : 컴포넌트형 스타일 구현
   * styled-reset : 스타일 리셋 
+  * gh-pages : 깃헙 페이지 배포
+  * react-minimal-pie-chart : 파이차트
+  * react-naver-maps : 네이버 API 지도 React 버전
+  
 * 패키지 (이론 o 프로젝트 실적용 경험 無)
   * typescript : 변수/함수 타입 지정
 
