@@ -62,7 +62,7 @@
     * 카카오 로그인 인증
       * [Kakao Develop](https://developers.kakao.com/)
           
-* 깃 리포지포리 / 프리뷰 
+* 깃 리포지토리 / 프리뷰 
   * [git repository: Clone-Carrot](https://github.com/wogns1026/Clone-Carrot/tree/development)   
 
 * 이미지
