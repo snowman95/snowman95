@@ -15,24 +15,10 @@
 ## 1. React
 * Spring boot 서버와 Rest API 연동
 * React Hook 제작
-* 패키지 (프로젝트 실적용 경험 有)
-  * react-router-dom : 라우팅 구현
-  * react-redux : 상태변화 관리
-  * @reduxjs/toolkit : 더 작은 코드로 리덕스 구현, thunk, RTK Query
-  * redux-logger : 스토어 상태변화를 로그로 출력하는 미들웨어
-  * axios : API 호출
-  * react-toastify : 팝업 알람창
-  * firebase v9 : 전화번호/Google 인증 구현
-  * react-spring, react-use-gesture, react-use-measure : 화면 스와이프 기능
-  * react-helmet : 웹사이트 상단 타이틀 수정
-  * styled-components : 컴포넌트형 스타일 구현
-  * styled-reset : 스타일 리셋 
-  * gh-pages : 깃헙 페이지 배포
-  * react-minimal-pie-chart : 파이차트
-  * react-naver-maps : 네이버 API 지도 React 버전
-  
-* 패키지 (이론 o 프로젝트 실적용 경험 無)
-  * typescript : 변수/함수 타입 지정
+* [패키지 (프로젝트 실적용 경험 有)](https://github.com/wogns1026/Clone-Carrot/wiki/React-%ED%8C%A8%ED%82%A4%EC%A7%80)
+* 패키지 (공부 진행 중)
+  * Typescript : 타입 강제
+  * TailWind : CSS 스타일
 
 ## 2. React Native
   * 기본적인 수준의 IOS/Android 용 APP개발 
@@ -45,7 +31,7 @@
 * 기간 : 2021.11 ~ 진행중
 * 인원 : 2인 (FE 1, BE 1) 중 FE 담당
 * 환경
-  * Frontend : `React.js` + `styled-components`
+  * Frontend : `React.js` + `styled-components` + `Redux RTK Query`
   * Backend : `Java Spring boot with Gradle` + `H2 Database` 
 
 * 설명 : 당근 마켓은 앱으로만 서비스 사용이 가능하고 웹은 모양만 만들어둔 수준으로 실제론 사용이 불가합니다.
