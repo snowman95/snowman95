@@ -23,18 +23,27 @@
 ## 1. React
   * 현업
     * 라이브 배포 사이트 유지보수 및 리펙토링
-    * 자바스크립트 타입스크립트 전환 경험
+      * 반응형 디자인 고려한 UI/UX 업데이트 : 모바일/테블릿/데스크탑
+      * 자바스크립트 타입스크립트 전환
+      * 모듈별 ErrorBoundary + Suspense 적용
+      * [URL hash 기반 서브 페이지 동작 체계 도입](https://11001.tistory.com/195?category=1039499)
     * Sendbird API를 연동한 메모/채팅 개발
+      * Sendbird Chat API 만으로도 구현 해보았고, Sendbird Platform API로 구현된 사내 채팅 서버의 API 로도 구현 해봄
+      * [react-cool-virutal](https://github.com/wellyshen/react-cool-virtual) 를 활용하여 스크롤 up시 추가 메시지 불러오도록 구현
+      * [react-quill](https://www.npmjs.com/package/react-quill) 활용하여 입력창 이모지/폰트 스타일 등 처리
     * 금융기관 연계 Web-App 개발
+      * 현재 상태에 따른 페이지 이용 제한 적용
+      * [Framer-motion](https://www.npmjs.com/package/framer-motion) 활용하여 애니메이션 효과 적용
     * 디자인 시스템 기반 스토리북 컴포넌트 제작 및 활용
+      * [Storybook](https://www.npmjs.com/package/@storybook/react) 활용하여 디자인시스템 컴포넌트 제작
   * 상태관리
-    * Redux, Redux-toolkit, RTK-Query
-    * React-Query
+    * Redux, Redux-toolkit, RTK-Query, React-Query
   * 디자인
     * Figma 를 통한 디자이너와의 협업 경험
-    * Storybook
-    * styled-component, emotion
-
+    * Storybook, styled-component, emotion 라이브러리 사용 경험
+  * 그 외
+    * Rest API, SSE(Server-Sent-Event), Socket 사용 경험
+  
 ## 2. React Native
   * 기본적인 수준의 IOS/Android 용 APP개발 
   * Expo를 사용하여 프리뷰 APP제작
