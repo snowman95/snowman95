@@ -9,26 +9,45 @@
 # React Web Frontend Programmer (2022~)
 # 기술 스텍
 <span><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<br>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </span>
 ## 1. React
-* Spring boot 서버와 Rest API 연동
-* React Hook 제작
-* [패키지 (프로젝트 실적용 경험 有)](https://github.com/wogns1026/Clone-Carrot/wiki/React-%ED%8C%A8%ED%82%A4%EC%A7%80)
-* 패키지 (공부 진행 중)
-  * Typescript : 타입 강제
-  * TailWind : CSS 스타일
+  * 현업
+    * 라이브 배포 사이트 유지보수 및 리펙토링
+    * 자바스크립트 타입스크립트 전환 경험
+    * Sendbird API를 연동한 메모/채팅 개발
+    * 금융기관 연계 Web-App 개발
+    * 디자인 시스템 기반 스토리북 컴포넌트 제작 및 활용
+  * 상태관리
+    * Redux, Redux-toolkit, RTK-Query
+    * React-Query
+  * 디자인
+    * Figma 를 통한 디자이너와의 협업 경험
+    * Storybook
+    * styled-component, emotion
 
 ## 2. React Native
   * 기본적인 수준의 IOS/Android 용 APP개발 
   * Expo를 사용하여 프리뷰 APP제작
 
+## 최근에 공부하고 있는 것 (2022.09.18 기준)
+  * Node.js + express 백엔드 스터디
+    * 연말까지 Nest.js 까지 스터디 완료하고 2023년에 백엔드+프론트 풀스텍 프로젝트 진행 예정 !
+  * 제 근황이 궁금하시면 블로그 방문해주세요 https://11001.tistory.com/category
          
 # 구현 프로젝트 List
 
 ## [Clone-Carrot](https://github.com/wogns1026/Clone-Carrot/tree/development) : Web Clone + 기능추가 프로젝트
-* 기간 : 2021.11 ~ 진행중
+* 기간 : 2021.11 ~ 2022.01 (중단)
 * 인원 : 2인 (FE 1, BE 1) 중 FE 담당
 * 환경
   * Frontend : `React.js` + `styled-components` + `Redux RTK Query`
