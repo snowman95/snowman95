@@ -48,12 +48,40 @@
   * 기본적인 수준의 IOS/Android 용 APP개발 
   * Expo를 사용하여 프리뷰 APP제작
 
-## 최근에 공부하고 있는 것 (2022.09.18 기준)
+## 최근에 공부하고 있는 것
+  (2022.09.18 기준)
   * Node.js + express 백엔드 스터디
     * 연말까지 Nest.js 까지 스터디 완료하고 2023년에 백엔드+프론트 풀스텍 프로젝트 진행 예정 !
   * 제 근황이 궁금하시면 블로그 방문해주세요 https://11001.tistory.com/category
-         
+  (2023.02.17 기준)
+  * next.js + graphql
+    * 서버사이드 렌더링과 필요한 데이터만 가져오는 graphql 기술을 공부하고 있습니다.
+
+      
 # 구현 프로젝트 List
+
+## [kb-bankapp](https://github.com/snowman95/kb-bankapp) : Monorepo 구성 (React.js + React-Native, 디자인시스템)
+* 인원 : 4인 (개발 1, 디자인 1, 기획 2) 중 개발 담당
+* 환경
+  * 모노레포 (yarn workspace + lerna) 로 3개의 레포지토리를 묶어서 구성했습니다.
+    * `React.js`, `React-Native`, `Storybook`
+  * 스타일 : `emotion`
+  * 디자인 시스템 : `Storybook`
+
+* 설명 : 액티브 시니어를 타겟으로 한 KB 스타뱅킹 앱 리뉴얼 프로젝트 입니다.
+
+* 깃 리포지토리 / 프리뷰 
+  * [vercel page : kb-bankapp](https://kb-bankapp-h40y4v2rf-snowman95.vercel.app/)
+  * [vercel page : kb-bankapp-storybook](https://kb-bankapp-web-storybook-c8zbeu9ty-snowman95.vercel.app/?path=/story/colors--page)
+  * [git repository: Clone-Carrot](https://github.com/wogns1026/Clone-Carrot/tree/development)   
+
+* 이미지
+![image](https://user-images.githubusercontent.com/89284542/219559099-fb74a1ba-80ac-43e9-b32c-d95ca26d6f39.png)
+![image](https://user-images.githubusercontent.com/89284542/219559127-145283ab-10e7-4670-b419-7c53ad270202.png)
+![image](https://user-images.githubusercontent.com/89284542/219559236-af9e7738-c804-49fc-a18e-e24e39481f56.png)
+![image](https://user-images.githubusercontent.com/89284542/219559387-efffcace-92e4-4d30-8f6f-c7da7330fc6d.png)
+![image](https://user-images.githubusercontent.com/89284542/219559324-e8314ea2-97f2-4a4c-98c4-fb46762e1ef6.png)
+
 
 ## [Clone-Carrot](https://github.com/wogns1026/Clone-Carrot/tree/development) : Web Clone + 기능추가 프로젝트
 * 기간 : 2021.11 ~ 2022.01 (중단)
