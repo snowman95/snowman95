@@ -78,9 +78,9 @@
 * 이미지
 ![image](https://user-images.githubusercontent.com/89284542/219559099-fb74a1ba-80ac-43e9-b32c-d95ca26d6f39.png)
 ![image](https://user-images.githubusercontent.com/89284542/219559127-145283ab-10e7-4670-b419-7c53ad270202.png)
-![image](https://user-images.githubusercontent.com/89284542/219559236-af9e7738-c804-49fc-a18e-e24e39481f56.png)
 ![image](https://user-images.githubusercontent.com/89284542/219559387-efffcace-92e4-4d30-8f6f-c7da7330fc6d.png)
 ![image](https://user-images.githubusercontent.com/89284542/219559324-e8314ea2-97f2-4a4c-98c4-fb46762e1ef6.png)
+![image](https://user-images.githubusercontent.com/89284542/219559236-af9e7738-c804-49fc-a18e-e24e39481f56.png)
 
 
 ## [Clone-Carrot](https://github.com/wogns1026/Clone-Carrot/tree/development) : Web Clone + 기능추가 프로젝트
