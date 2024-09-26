@@ -8,18 +8,29 @@
 ---
 # React Web Frontend Programmer (2022~)
 # 기술 스텍
-<span><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<span>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <br>
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+
+<br>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </span>
+
 ## 1. React
   * 현업
     * 라이브 배포 사이트 유지보수 및 리펙토링
@@ -37,7 +48,11 @@
     * 디자인 시스템 기반 스토리북 컴포넌트 제작 및 활용
       * [Storybook](https://www.npmjs.com/package/@storybook/react) 활용하여 디자인시스템 컴포넌트 제작
   * 상태관리
-    * Redux, Redux-toolkit, RTK-Query, React-Query
+    * redux, redux-toolkit, recoil
+  * 네트워크 요청 캐싱
+    * react-query(tanstack-query)
+  * GraphQL
+    * apollo-client, graphql-codegen
   * 디자인
     * Figma 를 통한 디자이너와의 협업 경험
     * Storybook, styled-component, emotion 라이브러리 사용 경험
@@ -47,6 +62,7 @@
 ## 2. React Native
   * 기본적인 수준의 IOS/Android 용 APP개발 
   * Expo를 사용하여 프리뷰 APP제작
+  * webview 를 통해 웹페이지를 띄우는 정도의 간단한 개발 가능함.
 
 ## 최근에 공부하고 있는 것
   (2022.09.18 기준)
@@ -56,7 +72,11 @@
   (2023.02.17 기준)
   * next.js + graphql
     * 서버사이드 렌더링과 필요한 데이터만 가져오는 graphql 기술을 공부하고 있습니다.
-
+  (2024.09.26 기준)
+  * nest.js 
+    * 백엔드 강의 수강하였습니다. 현업에서 이슈 트래킹시 매우 큰 도움이 되는 중입니다.
+  * next.js + firebase
+    * 프로젝트 진행하면서 1인 풀스텍 개발 진행해보고 있습니다.
       
 # 구현 프로젝트 List
 
